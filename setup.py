@@ -43,6 +43,6 @@ setup(
     python_requires=">=3.6",
     install_requires=[
         'aiohttp>=3.8.1<4.0.0',
-        'httpx>=0.20.0<1.0.0'
+        'httpx>=0.20.1<1.0.0'
     ],
 )
